@@ -10,8 +10,8 @@ This repository is a public landing page for the product. It contains no plugin 
 
 ## Get it
 
-Available for evaluation, purchase and licensing at **[project-flash.com](https://project-flash.com)**.
+Available for evaluation, purchase and licensing at **[setyenv.com](https://setyenv.com)**.
 
 ---
 
-Project Flash™, WP-PFWorkflow™, WP-PFManagement™ and WP-PFAgent™ are trademarks of Project Flash.
+Setyenv™, WP-PFWorkflow™, WP-PFManagement™ and WP-PFAgent™ are trademarks of Setyenv™.
